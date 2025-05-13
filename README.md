@@ -54,8 +54,8 @@ Here is a sample visualization of a graph with traversal paths:
 ### Clone and Run
 
 ```bash
-git clone https://github.com/your-username/graph-traversing-visualization.git
-cd graph-traversing-visualization
+git clone https://github.com/bruno-noir/EdgeView.git
+cd EdgeView
 ```
 ```bash
 npm install
